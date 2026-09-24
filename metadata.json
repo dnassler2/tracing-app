@@ -1,0 +1,6 @@
+{
+  "name": "LucidTrace AR Drawing & Paper Tracer",
+  "description": "Mobile-optimized AR optical tracer for iOS Safari. Project and align reference images over physical paper with live camera feed, smooth gestures, and precision grids.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
